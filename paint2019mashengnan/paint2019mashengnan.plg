@@ -1,0 +1,40 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: paint2019mashengnan - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/paint2019mashengnan.res" /d "_DEBUG" /d "_AFXDLL" "C:\Users\msi-\Desktop\c++test\paint2019mashengnan\paint2019mashengnan.rc"" 
+Creating temporary file "C:\Users\msi-\AppData\Local\Temp\RSPC7C4.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/paint2019mashengnan.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ   /c 
+"C:\Users\msi-\Desktop\c++test\paint2019mashengnan\paint2019mashengnan.cpp"
+]
+Creating command line "cl.exe @"C:\Users\msi-\AppData\Local\Temp\RSPC7C4.tmp"" 
+Creating temporary file "C:\Users\msi-\AppData\Local\Temp\RSPC7C5.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/paint2019mashengnan.pdb" /debug /machine:I386 /out:"Debug/paint2019mashengnan.exe" /pdbtype:sept 
+".\Debug\paint2019mashengnan.obj"
+".\Debug\StdAfx.obj"
+".\Debug\MainFrm.obj"
+".\Debug\paint2019mashengnanDoc.obj"
+".\Debug\paint2019mashengnanView.obj"
+".\Debug\paint2019mashengnan.res"
+".\Debug\Login_Dialog.obj"
+]
+Creating command line "link.exe @"C:\Users\msi-\AppData\Local\Temp\RSPC7C5.tmp""
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+paint2019mashengnan.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+paint2019mashengnan.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
